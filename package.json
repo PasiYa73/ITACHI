@@ -1,12 +1,12 @@
 {
-    "name": "PMD-WA-BOT",
-    "version": "3.1.1",
-    "description": "PMD-WA-BOT is a Powerful Whatsapp bot.  👨‍💻❤️",
+    "name": "ITACHI-WA-BOT",
+    "version": "1.0.0",
+    "description": "ITACHI-WA-BOT is a Powerful Whatsapp bot.  👨‍💻❤️",
     "main": "start.js",
     "scripts": {
-        "start": "pm2 start start.js --deep-monitoring --attach --name wabot-pmd",
-        "stop": "pm2 stop wabot-pmd",
-        "restart": "pm2 restart wabot-pmd"
+        "start": "pm2 start start.js --deep-monitoring --attach --name wabot-ITACHI",
+        "stop": "pm2 stop wabot-ITACHI",
+        "restart": "pm2 restart wabot-ITACHI"
     },
     "dependencies": {
         "@adiwajshing/keyed-db": "^0.2.4",
