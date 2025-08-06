@@ -1,8 +1,8 @@
 {
-  "name": "PRABATH-MD (3.0.0)",
-  "description": "PRABATH-MD has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
-  "logo": "https://i.ibb.co/YnKwtFV/50d27b64cf679379.jpg",
-  "keywords": ["nodejs", "bot", "whatsapp bot", "multi device", "prabath-md"],
+  "name": "ITACHI-MD (1.0.0)",
+  "description": "ITACHI-MD has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
+  "logo": "https://github.com/PasiYa73/Photo/blob/main/%40r07qxo%20-%20R%E2%A4%93Download.jpeg",
+  "keywords": ["nodejs", "bot", "whatsapp bot", "multi device", "itachi-md"],
   "success_url": "/",
 
   "env": {
